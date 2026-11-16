@@ -1,3 +1,6 @@
+> **本仓库的前身是 [`Lance-9527/VideoForge`](https://github.com/Lance-9527/VideoForge)（已归档）。**
+> 两者共享同一套提交历史与 MIT 许可证；本仓库是后续主开发线。
+
 <div align="center">
 
 # VideoForge
